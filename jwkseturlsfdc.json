@@ -1,4 +1,6 @@
 {
+"keys": [
+{
   "kty": "RSA",
   "use": "sig",
   "alg": "RS256",
@@ -10,4 +12,6 @@
   "x5t#S256": "yAQ1JiJYmLzKSVeS52OyWTtjq_kvahnPpdQKwMrWLNM",
   "n": "xgCmqqtaiJaTfqwTI79L2wmOKrmyMItPYMJcwe_jD0i4pup82pVNnpCeNSFZ32ghMRTsyroiu_Q1uXpnhw71J9o7-v5N2zPvKvIi2o-WnLmzKCq1zEYcyOIdQwOZ1GbHZV-SnzYJCtrzRckqgWYiNcagwjT4NKd8BCZQqwFYBaCkatqK03tE8b0c742r7HEWBSuM2St_U0T20MIGyUv1ASpgbqHlgnsyO1oSnuR38eHk0c7Ah-xqWy27_wnYM9Y129R3r68Z5_xzH6AV1H9ztkOGzJlDtVerXdw5olY5nO9xb4NyLniK02zM3dUSNJh4fL3VaRogjdRKbmiGFZTpBw",
   "e": "AQAB"
+}
+]
 }
